@@ -1,0 +1,80 @@
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Converting GML script: ${project_dir}\scripts\twitch_init\twitch_init.gml
+Converted description /// @description  twitch_init(client ID);/// @function  twitch_init
+/// @param client ID
+Converted string - line 29: "\debug_log" -> "\\debug_log"
+
+Converting GML script: ${project_dir}\scripts\twitch_parse_data\twitch_parse_data.gml
+Converted description /// @description  twitch_parse_data(data,id);/// @function  twitch_parse_data
+/// @param data
+/// @param id
+
+Converting GML script: ${project_dir}\scripts\twitch_log\twitch_log.gml
+Converted description /// @description  twitch_log(string);/// @function  twitch_log
+/// @param string
+Converted string - line 14: "\debug_log" -> "\\debug_log"
+
+Converting GML script: ${project_dir}\scripts\twitch_free\twitch_free.gml
+Converted description /// @description  twitch_free();/// @function  twitch_free
+
+Converting GML script: ${project_dir}\scripts\twitch_stream_get_info\twitch_stream_get_info.gml
+Converted description /// @description  twitch_stream_get_info(channel_id);/// @function  twitch_stream_get_info
+/// @param channel_id
+
+Converting GML script: ${project_dir}\scripts\twitch_stream_get_thumbnail\twitch_stream_get_thumbnail.gml
+Converted description /// @description  twitch_stream_get_thumbnail(channel_id,size);/// @function  twitch_stream_get_thumbnail
+/// @param channel_id
+/// @param size
+Converted string - line 39: "\" -> "\\"
+
+Converting GML script: ${project_dir}\scripts\twitch_auto_update_info\twitch_auto_update_info.gml
+Converted description /// @description  twitch_auto_update_info();/// @function  twitch_auto_update_info
+
+Converting GML script: ${project_dir}\scripts\twitch_update_info\twitch_update_info.gml
+Converted description /// @description  twitch_update();/// @function  twitch_update
+
+Converting GML script: ${project_dir}\scripts\twitch_stream_async\twitch_stream_async.gml
+Converted description /// @description  twitch_async();/// @function  twitch_async
+Converted string - line 103: "\" -> "\\"
+
+Converting GML script: ${project_dir}\scripts\twitch_stream_find_value\twitch_stream_find_value.gml
+Converted description /// @description  twitch_stream_find_value(channel_id,key);/// @function  twitch_stream_find_value
+/// @param channel_id
+/// @param key
+
+Converting GML script: ${project_dir}\scripts\twitch_stream_remove\twitch_stream_remove.gml
+Converted description /// @description  twitch_stream_remove(channel_id);/// @function  twitch_stream_remove
+/// @param channel_id
+
+Converting GML script: ${project_dir}\scripts\twitch_chat_connect\twitch_chat_connect.gml
+Converted description /// @description  twitch_chat_connect(channel_id,username,oauth);/// @function  twitch_chat_connect
+/// @param channel_id
+/// @param username
+/// @param oauth
+
+Converting GML script: ${project_dir}\scripts\twitch_chat_async\twitch_chat_async.gml
+Converted description /// @description  twitch_chat_async();/// @function  twitch_chat_async
+
+Converting GML script: ${project_dir}\scripts\twitch_chat_say\twitch_chat_say.gml
+Converted description /// @description  twitch_chat_say(msg);/// @function  twitch_chat_say
+/// @param msg
+
+Converting GML script: ${project_dir}\scripts\twitch_chat_disconnect\twitch_chat_disconnect.gml
+Converted description /// @description  twitch_chat_disconnect();/// @function  twitch_chat_disconnect
+
+Converting GML script: ${project_dir}\objects\obj_twitch\Draw_64.gml
+Converted builtin - line 91: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 95: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 107: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 109: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 123: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 41: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted string - line 45: "\#" -> "\\#"
+
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'

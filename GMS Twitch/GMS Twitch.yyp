@@ -1,0 +1,508 @@
+{
+    "id": "ac4fa930-fe5d-45db-8ef8-a74b61af3372",
+    "modelName": "GMProject",
+    "mvc": "1.0",
+    "IsDnDProject": false,
+    "configs": [
+        
+    ],
+    "option_ecma": false,
+    "parentProject": {
+        "id": "8c8e4b8d-ca89-4fd7-b64b-03cf29bf01f3",
+        "modelName": "GMProjectParent",
+        "mvc": "1.0",
+        "alteredResources": [
+            {
+                "Key": "ed6a955d-5826-4f98-a450-10b414266c27",
+                "Value": {
+                    "configDeltas": [
+                        "inherited"
+                    ],
+                    "id": "538bb958-ab1d-401f-84a6-bf771095ad39",
+                    "resourcePath": "options\\main\\options_main.yy",
+                    "resourceType": "GMMainOptions"
+                }
+            }
+        ],
+        "hiddenResources": [
+            
+        ],
+        "projectPath": "${base_project}"
+    },
+    "resources": [
+        {
+            "Key": "0e848f78-27d2-44d6-90bf-933abbe3f8a4",
+            "Value": {
+                "id": "49aa766b-7f13-44f2-8bf2-24afc26756fe",
+                "resourcePath": "scripts\\twitch_chat_disconnect\\twitch_chat_disconnect.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1303a5d0-7b65-497e-a9bd-e2ecff82ed64",
+            "Value": {
+                "id": "346e07d6-d544-45b2-b007-8b96eaee97f1",
+                "resourcePath": "views\\1303a5d0-7b65-497e-a9bd-e2ecff82ed64.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1ae7e64a-508f-4905-894f-5631d9ff7532",
+            "Value": {
+                "id": "7d9eff1e-0101-43bf-8435-12636eec36e5",
+                "resourcePath": "views\\1ae7e64a-508f-4905-894f-5631d9ff7532.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1b182468-016c-41c0-8095-989fb4c9f5ae",
+            "Value": {
+                "id": "eeee4813-e804-41e2-b04d-b4b53b034dd0",
+                "resourcePath": "scripts\\twitch_free\\twitch_free.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1f32584c-bd81-4ecd-8449-a07e7af91130",
+            "Value": {
+                "id": "46801aa8-a5a6-42f6-8f61-bf48a2adfbcc",
+                "resourcePath": "views\\1f32584c-bd81-4ecd-8449-a07e7af91130.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2414f363-35c1-43b1-83b4-e648b593d949",
+            "Value": {
+                "id": "e3eea364-cb74-4b36-8bb7-8302a5e86a5c",
+                "resourcePath": "scripts\\twitch_stream_find_value\\twitch_stream_find_value.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "2acb89a8-bf0b-43d6-9dae-06b90c4e4190",
+            "Value": {
+                "id": "1caa692e-457f-4446-8c08-7a4c2f272026",
+                "resourcePath": "notes\\compatibility_report_310118_1755135513.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "36673f27-e7dc-4ab1-9e75-fbb6876d4b88",
+            "Value": {
+                "id": "f4440799-a745-462b-a7ee-041bb54ad7aa",
+                "resourcePath": "views\\36673f27-e7dc-4ab1-9e75-fbb6876d4b88.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3753949f-966f-4bd0-b3dd-fdd96b197d7d",
+            "Value": {
+                "id": "0413d789-c2f7-40e4-84e3-465e20c8f698",
+                "resourcePath": "views\\3753949f-966f-4bd0-b3dd-fdd96b197d7d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "41b55f0d-be72-42b5-953d-26d69d3e4744",
+            "Value": {
+                "id": "ba33acff-802b-47c2-b46a-63ea2f9616c6",
+                "resourcePath": "scripts\\twitch_parse_data\\twitch_parse_data.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "461444c4-f2ad-4517-b48e-8501dcdee741",
+            "Value": {
+                "id": "2cddc95f-0697-4845-97e7-e242e41293d5",
+                "resourcePath": "rooms\\rm_init\\rm_init.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4ec81372-efd9-4328-acd5-b9a586f27637",
+            "Value": {
+                "id": "710339c7-d216-4e9a-bb8e-bd432dda2676",
+                "resourcePath": "rooms\\rm_main\\rm_main.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4f486710-cfa5-4e8b-a418-cb232092bb45",
+            "Value": {
+                "id": "646b74b8-3c59-41e1-bb29-a0a8b8c88634",
+                "resourcePath": "scripts\\twitch_stream_get_info\\twitch_stream_get_info.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "51ec3d9e-1e0d-43ba-985c-351c70beeacd",
+            "Value": {
+                "id": "7ae9857c-fe47-4bf1-88f5-f238f89c207c",
+                "resourcePath": "scripts\\twitch_stream_async\\twitch_stream_async.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "58aa556a-515f-4324-ab84-074f43e5bad5",
+            "Value": {
+                "id": "5e5a00f7-f35b-4670-a69e-3d9a754b899e",
+                "resourcePath": "views\\58aa556a-515f-4324-ab84-074f43e5bad5.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5e35e2cb-7955-4182-b5f6-c4718e8c9a29",
+            "Value": {
+                "id": "ff182049-7f1e-441d-ae1e-9f62b7357357",
+                "resourcePath": "scripts\\@__global_object_depths\\__global_object_depths.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "64ab8c49-c83f-4447-bd36-7ccc746a3819",
+            "Value": {
+                "id": "a8c3e397-8162-4081-9a3a-bc8a4714fdfa",
+                "resourcePath": "views\\64ab8c49-c83f-4447-bd36-7ccc746a3819.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "67dc9e1e-dec0-4eb8-82d2-4a7cbcf2f50d",
+            "Value": {
+                "id": "b908ba46-52c9-4889-aad6-b56f149afe19",
+                "resourcePath": "views\\67dc9e1e-dec0-4eb8-82d2-4a7cbcf2f50d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "68fb1e07-0861-4821-bff6-252f0f7c221e",
+            "Value": {
+                "id": "380bb64e-cd20-4db8-8b2d-ae5867a33026",
+                "resourcePath": "scripts\\twitch_chat_connect\\twitch_chat_connect.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "72a34c9d-4687-42fb-b52c-53026e2fd965",
+            "Value": {
+                "id": "a15054f1-3abd-49b4-9c11-a640fc9e82fa",
+                "resourcePath": "scripts\\twitch_chat_say\\twitch_chat_say.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "864302a8-7e71-4a30-a30a-1399ab2cfb47",
+            "Value": {
+                "id": "7ecfe83e-a258-4511-a239-d366f376541e",
+                "resourcePath": "views\\864302a8-7e71-4a30-a30a-1399ab2cfb47.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "86e09f43-ffb5-4cf6-b78c-e099a90210c6",
+            "Value": {
+                "id": "1f49a55a-fda5-478a-9595-ebca2e9d1a33",
+                "resourcePath": "views\\86e09f43-ffb5-4cf6-b78c-e099a90210c6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "875db95b-0ad2-4eb5-84f6-dca8005db3a7",
+            "Value": {
+                "id": "717b1647-3d18-4c69-96bb-a4d86f328b90",
+                "resourcePath": "objects\\oMain\\oMain.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8877cc63-1202-4096-9013-ad48074c4004",
+            "Value": {
+                "id": "a5305471-4435-447e-abe9-83006e1c7801",
+                "resourcePath": "scripts\\twitch_stream_remove\\twitch_stream_remove.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "89eeaa33-5523-4715-acdf-ea045e16940f",
+            "Value": {
+                "id": "baac3c51-7a2f-4537-8c8d-f67b4e0329ad",
+                "resourcePath": "views\\89eeaa33-5523-4715-acdf-ea045e16940f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8c8091a0-9b13-43eb-bfe1-097096080196",
+            "Value": {
+                "id": "247251bf-9f2f-4d72-b01c-762660493c70",
+                "resourcePath": "notes\\notes.yy",
+                "resourceType": "GMNotes"
+            }
+        },
+        {
+            "Key": "9749a17b-3549-4b17-9897-d6c41def3261",
+            "Value": {
+                "id": "0d2b6355-5671-41e6-8973-820992add5c5",
+                "resourcePath": "views\\9749a17b-3549-4b17-9897-d6c41def3261.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9d30e3d6-6d9d-43da-a62a-942f6dd5e43c",
+            "Value": {
+                "id": "31119f25-fbfb-4df1-b99c-26183b3cee35",
+                "resourcePath": "scripts\\@instance_create\\instance_create.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9ff5d034-f54f-4316-b9e5-37d61e426f20",
+            "Value": {
+                "id": "bd5f2d6a-6c41-4dfb-944c-da09053dc9d9",
+                "resourcePath": "scripts\\twitch_auto_update_info\\twitch_auto_update_info.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a2d1fd25-c762-43ab-aa85-21a8afe2a82b",
+            "Value": {
+                "id": "d3657a58-33fe-4b91-9f1e-3be5e47c185b",
+                "resourcePath": "views\\a2d1fd25-c762-43ab-aa85-21a8afe2a82b.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a3c02841-77f6-4a49-860b-77c1292ac8a7",
+            "Value": {
+                "id": "fe733441-f764-4411-84ae-0ec7e9b2129e",
+                "resourcePath": "scripts\\process_commands\\process_commands.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a69d2736-1bc4-45f7-8419-7156f6207293",
+            "Value": {
+                "id": "b1a0a445-709b-4431-a43f-07fc20c501c1",
+                "resourcePath": "scripts\\@__init_view\\__init_view.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a6c0a343-a6d7-4919-b221-f87d3ca88b94",
+            "Value": {
+                "id": "add69be9-83b8-44a4-8235-28fce9a829c5",
+                "resourcePath": "scripts\\@object_get_depth\\object_get_depth.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "8b84fac2-3c18-45ba-ad81-6d75c5186e4c",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ab791eda-7e26-40ca-9d31-c27a63d2cdaa",
+            "Value": {
+                "id": "2faaba09-7aaf-45ea-a27b-d4501e9c7888",
+                "resourcePath": "objects\\oDisplayManager\\oDisplayManager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ae091cac-2af4-4c69-9c24-d289f1e1481b",
+            "Value": {
+                "id": "18ab2e79-5ea9-4549-b1b7-912bf13b79fb",
+                "resourcePath": "scripts\\twitch_chat_async\\twitch_chat_async.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "b1430259-09ea-45c4-bd29-88553d90c24d",
+            "Value": {
+                "id": "80664e66-feb6-42c3-951b-14ae372211ab",
+                "resourcePath": "views\\b1430259-09ea-45c4-bd29-88553d90c24d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b2229956-3e76-42ed-8739-9189c87b2e87",
+            "Value": {
+                "id": "bddf477a-e89a-4ea9-896a-2249e876043e",
+                "resourcePath": "views\\b2229956-3e76-42ed-8739-9189c87b2e87.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b9a2ca8e-6d4b-45b6-8986-bb5cacc83514",
+            "Value": {
+                "id": "7e74eb49-9c3b-4101-a805-512905aa5a22",
+                "resourcePath": "views\\b9a2ca8e-6d4b-45b6-8986-bb5cacc83514.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c01d3a8d-74d8-458e-98af-56c63e3a06d1",
+            "Value": {
+                "id": "498e0f57-472d-4edd-93a5-f94c172a054e",
+                "resourcePath": "scripts\\round_n\\round_n.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c58f8201-b501-4b7d-81bd-a4dda2f31e2e",
+            "Value": {
+                "id": "9e1f3a75-ac7d-4afe-8b81-6fc9e5d0fa79",
+                "resourcePath": "scripts\\twitch_init\\twitch_init.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "c6b2a633-8c09-4f59-abd6-decfeb56e8fc",
+            "Value": {
+                "id": "22aae318-1fc9-4cf0-955f-49614c47081e",
+                "resourcePath": "views\\c6b2a633-8c09-4f59-abd6-decfeb56e8fc.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cbd891c5-3f6b-46b5-9c9a-e5941858c8e6",
+            "Value": {
+                "id": "6f1f652b-77f9-48c6-9afe-da14aa6abbb8",
+                "resourcePath": "views\\cbd891c5-3f6b-46b5-9c9a-e5941858c8e6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
+            "Value": {
+                "id": "ec61aff1-da6e-4d8c-9e00-585e256cce31",
+                "resourcePath": "options\\windows\\options_windows.yy",
+                "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d399bf4f-8fa5-439f-8c0c-c5546e643c12",
+            "Value": {
+                "id": "27325571-5349-48c7-89e3-84d1af454097",
+                "resourcePath": "views\\d399bf4f-8fa5-439f-8c0c-c5546e643c12.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "da7ad693-f8d0-4759-b5ee-3ae58a0524ee",
+            "Value": {
+                "id": "0c1f5738-f518-4020-8f53-eef821af309d",
+                "resourcePath": "views\\da7ad693-f8d0-4759-b5ee-3ae58a0524ee.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dcd2dbc2-e2f7-43b6-b191-0f8afb944436",
+            "Value": {
+                "id": "961893e3-a03b-40ad-8948-a28a3d2a3b62",
+                "resourcePath": "scripts\\twitch_stream_get_thumbnail\\twitch_stream_get_thumbnail.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "e8418f13-ecc6-417b-8d21-2d857c9740b3",
+            "Value": {
+                "id": "33fcb2e5-d016-4189-b53c-800c135bc5bc",
+                "resourcePath": "views\\e8418f13-ecc6-417b-8d21-2d857c9740b3.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e883311c-ebde-4e5a-984a-7f8830ec4708",
+            "Value": {
+                "id": "2bb1144a-1a1f-4c57-a8b8-f02680679741",
+                "resourcePath": "views\\e883311c-ebde-4e5a-984a-7f8830ec4708.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ea76c0ef-5c71-4da1-8d2e-d6e26c9510d6",
+            "Value": {
+                "id": "475472cb-b696-43bb-85ba-1036f30ce4bf",
+                "resourcePath": "scripts\\twitch_update_info\\twitch_update_info.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "eb102785-ebdc-4f3b-8faf-f975562ea430",
+            "Value": {
+                "id": "afbc2e20-91c9-4f8f-ada0-0d4b673a34d2",
+                "resourcePath": "views\\eb102785-ebdc-4f3b-8faf-f975562ea430.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "57c2b1e3-b9cb-4203-b6d0-fed04c9698e0",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f46d6e3f-6fe5-40d3-aa4a-b3776aabe710",
+            "Value": {
+                "id": "3618e6bc-dbb7-49a8-b3eb-f40259f5c9c0",
+                "resourcePath": "scripts\\@__init_global\\__init_global.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "f94a8578-32a5-4386-87cc-5ff068959734",
+            "Value": {
+                "id": "1aeab8d7-a1f0-4415-9ced-298ba2ff3ec7",
+                "resourcePath": "views\\f94a8578-32a5-4386-87cc-5ff068959734.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fa8431e9-4685-41c7-a0e3-6811f12d15da",
+            "Value": {
+                "id": "42e06e3d-67e8-4ee1-89a6-d73eeaf74f90",
+                "resourcePath": "scripts\\@__view_get\\__view_get.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "fe985ff5-6def-474a-a2f0-045e3e78aed8",
+            "Value": {
+                "id": "cbecf6a3-c10f-4bc8-a69b-69cd7db41bb1",
+                "resourcePath": "scripts\\twitch_log\\twitch_log.yy",
+                "resourceType": "GMScript"
+            }
+        }
+    ],
+    "script_order": [
+        "c58f8201-b501-4b7d-81bd-a4dda2f31e2e",
+        "41b55f0d-be72-42b5-953d-26d69d3e4744",
+        "fe985ff5-6def-474a-a2f0-045e3e78aed8",
+        "1b182468-016c-41c0-8095-989fb4c9f5ae",
+        "4f486710-cfa5-4e8b-a418-cb232092bb45",
+        "dcd2dbc2-e2f7-43b6-b191-0f8afb944436",
+        "9ff5d034-f54f-4316-b9e5-37d61e426f20",
+        "ea76c0ef-5c71-4da1-8d2e-d6e26c9510d6",
+        "51ec3d9e-1e0d-43ba-985c-351c70beeacd",
+        "2414f363-35c1-43b1-83b4-e648b593d949",
+        "8877cc63-1202-4096-9013-ad48074c4004",
+        "68fb1e07-0861-4821-bff6-252f0f7c221e",
+        "ae091cac-2af4-4c69-9c24-d289f1e1481b",
+        "72a34c9d-4687-42fb-b52c-53026e2fd965",
+        "0e848f78-27d2-44d6-90bf-933abbe3f8a4",
+        "a3c02841-77f6-4a49-860b-77c1292ac8a7",
+        "9d30e3d6-6d9d-43da-a62a-942f6dd5e43c",
+        "a6c0a343-a6d7-4919-b221-f87d3ca88b94",
+        "fa8431e9-4685-41c7-a0e3-6811f12d15da",
+        "a69d2736-1bc4-45f7-8419-7156f6207293",
+        "f46d6e3f-6fe5-40d3-aa4a-b3776aabe710",
+        "5e35e2cb-7955-4182-b5f6-c4718e8c9a29",
+        "c01d3a8d-74d8-458e-98af-56c63e3a06d1"
+    ],
+    "tutorial": ""
+}
